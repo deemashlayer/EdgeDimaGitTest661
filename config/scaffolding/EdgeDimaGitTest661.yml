@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeDimaGitTest661
+  gitServerName: DimaGit
+  gitUrl: https://github.com/deemashlayer/EdgeDimaGitTest661
+  gitUsername: deemashlayer
+  gitToken: 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
+  gitBranch: master
